@@ -14,3 +14,5 @@ Timestamp: 2024-10-14 13:20:58
 screenshot
 
 very usefull
+
+ open command prompt in the folder and then paste this in it:pip install -r requirements.txt
