@@ -1,0 +1,10 @@
+DateTime==5.5
+PyAutoGUI==0.9.54
+os
+platform
+re
+requests==2.31.0
+time
+tkinter
+tkinterdnd2==0.4.2
+webbrowser
