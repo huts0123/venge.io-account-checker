@@ -11,7 +11,7 @@ import pyautogui  # To take screenshots and close the tab
 import platform  # To check the operating system
 
 # Hardcoded Discord webhook URL
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1295341967080816650/CHd2YW3bDQkN4Rkq8ZjTM8jI_uOXW3ws0xoTx98hY5QSGuS_E8YozvEoqH-iMhFbijyd'
+WEBHOOK_URL = 'your webhook here'
 
 def extract_lines_with_keyword(input_file, output_file, keyword):
     """Extract lines containing the specified keyword from the input file."""
